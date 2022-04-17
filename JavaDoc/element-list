@@ -1,0 +1,6 @@
+com.adobe.bookstore
+com.adobe.bookstore.model
+com.adobe.bookstore.repository
+com.adobe.bookstore.resource
+com.adobe.bookstore.service
+com.adobe.bookstore.service.impl

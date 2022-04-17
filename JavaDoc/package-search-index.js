@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.adobe.bookstore"},{"l":"com.adobe.bookstore.model"},{"l":"com.adobe.bookstore.repository"},{"l":"com.adobe.bookstore.resource"},{"l":"com.adobe.bookstore.service"},{"l":"com.adobe.bookstore.service.impl"}]
